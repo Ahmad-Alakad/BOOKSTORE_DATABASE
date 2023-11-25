@@ -175,171 +175,171 @@
    VALUES (1111111111, 1, 1, 2005, 'Harry Potter and the Sorcerer''s Stone', 25);
    
 
-   INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+   INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
    VALUES (2222222222, 1, 1, 1984, 'The Shining', 20);
    
 
-   INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+   INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
    VALUES (3333333333, 2, 1, 1991, 'The Firm', 18);
    
 
-   INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+   INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
    VALUES (4444444444, 2, 1, 2003, 'The Da Vinci Code', 22);
    
 
-   INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+   INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
    VALUES (5555555555, 3, 1, 1934, 'Murder on the Orient Express', 15);
    
 
-   INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+   INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
    VALUES (6666666666, 3, 2, 1996, 'A Game of Thrones', 30);
    
 
-   INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+   INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
    VALUES (7777777777, 4, 2, 1987, 'Beloved', 17);
    
 
-   INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+   INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
    VALUES (8888888888, 4, 2, 2001, 'American Gods', 19);
    
 
-   INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+   INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
    VALUES (9999999999, 5, 2, 1985, 'The Handmaid''s Tale', 16);
    
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (1010101010, 5, 2, 1926, 'The Sun Also Rises', 14);
     
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (2020202020, 6, 3, 1969, 'I Know Why the Caged Bird Sings', 12);
     
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (3030303030, 6, 3, 1967, 'One Hundred Years of Solitude', 21);
     
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (4040404040, 7, 3, 1927, 'To the Lighthouse', 18);
     
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (5050505050, 7, 3, 1813, 'Pride and Prejudice', 16);
     
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (6060606060, 8, 3, 1989, 'The Joy Luck Club', 14);
     
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (7070707070, 8, 4, 1892, 'The Adventures of Sherlock Holmes', 13);
     
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (8080808080, 9, 4, 1998, 'Holes', 10);
     ----------------------------
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (9090909090, 9, 4, 1998, 'Book1', 10);
     
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (1369875962, 10, 4, 1998, 'Book2', 10);
     
     
-        INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+        INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (2369857492, 10, 4, 1998, 'Book3', 10);
 
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (3698745215, 11, 5, 1998, 'Book4', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (4569871235, 11, 5, 1998, 'Book5', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (5698741236, 12, 5, 1998, 'Book6', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (6987512349, 12, 5, 1998, 'Book7', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (7980365195, 13, 5, 1998, 'Book8', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (8962357812, 14, 6, 1998, 'Book9', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (9698745632, 14, 6, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (1136987456, 15, 6, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (2236987456, 15, 6, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (3369845215, 16, 6, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (4469845231, 16, 7, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (5569874123, 17, 7, 1998, 'Holes', 10);
     
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (6698745213, 17, 7, 1998, 'Holes', 10);
     
     
-        INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+        INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (7736987452, 18, 7, 1998, 'Holes', 10);
 
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (8865923512, 18, 7, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (9968452365, 19, 8, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (1113659874, 19, 8, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (2223698745, 20, 8, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (3336987452, 1, 8, 1998, 'Holes', 10);
 
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (4445698745, 20, 8, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (5556984136, 21, 9, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (6669871235, 21, 9, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (7779856245, 22, 9, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (8886941269, 22, 9, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (9992365471, 23, 9, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (1111698745, 23, 10, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (2222698745, 24, 10, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (3333697156, 24, 10, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (4444698752, 25, 10, 1998, 'Holes', 10);
 
-    INSERT INTO BSTORE.Book (ISBN, AutherID, PublisherID, Year, Title, price)
+    INSERT INTO BSTORE.Book (ISBN, AUTHORID, PublisherID, Year, Title, price)
     VALUES (5555987630, 25, 10, 1998, 'Holes', 10);
 --==============================================================================================--
 
@@ -702,4 +702,3 @@
     INSERT INTO BSTORE.ShoppingBasket_Book (ShoppingBasket_ID, BookISBN, Count, Sdate)
     VALUES (9,8080808080, 2, TO_TIMESTAMP('2022-01-17 10:15:00', 'YYYY-MM-DD HH24:MI:SS'));
     
-
