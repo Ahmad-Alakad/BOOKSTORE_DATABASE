@@ -131,26 +131,26 @@ GRANT SELECT ON BSTORE.SHOPPINGBASKET TO "ACCOUNTANT";
 -------------
 --CUSTOMER
 -------------
-GRANT "CONNECT","RESOURCE" TO "customer";
-GRANT INSERT ON BSTORE.CUSTOMER TO "customer";
+GRANT "CONNECT","RESOURCE" TO "CUSTOMER";
+GRANT INSERT ON BSTORE.CUSTOMER TO "CUSTOMER";
 
-ALTER USER "customer" QUOTA 2k ON SALES ;   ---1020B---->2kb
+ALTER USER "CUSTOMER" QUOTA 2k ON SALES ;   ---1020B---->2kb
 --===================================================================================================================================--
 
 ---------------
 --publisher
 ---------------
-GRANT "CONNECT","RESOURCE" TO "publisher";
-GRANT INSERT ON BSTORE.publisher TO "publisher";
+GRANT "CONNECT","RESOURCE" TO "PUBLISHER";
+GRANT INSERT ON BSTORE.publisher TO "PUBLISHER";
 
-ALTER USER "publisher" QUOTA 2k ON contentcreator ;   ---1026B---->2kb
+ALTER USER "PUBLISHER" QUOTA 2k ON contentcreator ;    ---1026B---->2kb
 --===================================================================================================================================--
 
 ------------
 --author
 ------------
-GRANT "CONNECT","RESOURCE" TO "author";
-GRANT INSERT ON BSTORE.author TO "author";
+GRANT "CONNECT","RESOURCE" TO "AUTHOR";
+GRANT INSERT ON BSTORE.author TO "AUTHOR";
 
-ALTER USER "author" QUOTA 2k ON contentcreator ;   ---771B---->1kb
+ALTER USER "AUTHOR" QUOTA 2k ON contentcreator ;    ---771B---->1kb
 
