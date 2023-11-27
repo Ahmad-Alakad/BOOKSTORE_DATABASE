@@ -60,7 +60,7 @@ END;
 --=============================================================================================--
 
 ----------------------------------
---CONTENT CREATOR TABLESPACE
+--CONTENTCREATOR TABLESPACE
 ----------------------------------
 BEGIN
     DBMS_SERVER_ALERT.SET_THRESHOLD(
