@@ -25,8 +25,8 @@ GRANT SELECT, INSERT, UPDATE, DELETE ON BSTORE.SHOPPINGBASKET TO BSTORE;
 ---------------
 --DBAs
 ---------------
-GRANT "CONNECT","RESOURCE","SYSDBA" TO "DBA1";
-GRANT "CONNECT","RESOURCE","DBA" TO "DBA2";
+GRANT "CONNECT","RESOURCE",SYSDBA TO "DBA1";
+GRANT "CONNECT","RESOURCE",DBA TO "DBA2";
 --===========================================================================================--
 
 -----------------------
