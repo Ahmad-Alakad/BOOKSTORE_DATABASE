@@ -1,6 +1,5 @@
 --GIVE PRIVILLAGES
 --------------------------
---------------------------
 
 ---------------------------
 ---BSTORE SCHEMA OWNER
@@ -153,4 +152,7 @@ GRANT "CONNECT","RESOURCE" TO "AUTHOR";
 GRANT INSERT ON BSTORE.author TO "AUTHOR";
 
 ALTER USER "AUTHOR" QUOTA 2k ON contentcreator ;    ---771B---->1kb
+
+------------IMPORTANT FOR ERROR NO PRIVILEGE TABLESPACE USERS
+GRANT UNLIMITED TABLESPACE TO BSTORE;
 
